@@ -58,21 +58,21 @@
 
 ##### Vagrant
 • Virtual development environments
-• Enables project develoment in isolation to reduce cross contamination
-• 
+• Enables project develoment in isolation to reduce project cross contamination
+• Enables rapid replicatable deployment of development, testing, production  
 
 #### Puppet
-• 
-• 
-•
+• Automation of environment provisioning
+• Facilitates increesed Agility by allowing changes to be rapidly deployed across instances  
+• Provisioning profiles can be easly checked in to Source Control
 
 #### Docker
-• 
-• 
-•
+• Allows for Rapid deployment of containers
+• Easily scalable
+• Easily deployable to production, VM, Private Cloud, Bare Metal
 
 #### Heroku
-• 
+• Git driven deployment automation & application hosting
 • 
 • 
 
@@ -297,8 +297,8 @@
 • 
 
 #### Toronto 2008
-• 
-• 
+• International Bicycle Courier Competition
+• Race Participant
 • 
 
 #### Tokyo 2009
