@@ -68,3 +68,16 @@ Gourami is an opinionated, clonable, functional, scalable & flexile web applicat
 HTML5, CSS3, ECMAScript
 #### Back End
 Ruby, Slim, SASS, Sinatra, Grape, DataMapper
+
+## Moonbase
+
+• Moonbase is my Xserve for hire  
+• Facilitates development & general awesomeness by increasing technological effectiveness  
+• Functions as a live classroom for teaching development & operations on 'real' hardware
+
+Moonbase is my personal Xserve & Fiber Channel RAID Array. Owning a functional Data Center Grade bare metal server allows one access to an invalable resource for development, teaching & discovery. By makeing this resource avalable to friends & colleagues one may also provide services such as File & Calendar Shareing, Git Repository hosting, Web Hosting & Other Colaborative services facilitating colaboration in both a personal & professional capacity.
+
+#### Front End
+OSX Lion, Apple Remote Desktop, SSH, The Internet
+#### Back End
+Ruby, Xserve, Fiber Channel RAID, L2TP/IPSec VPN, CalDAV, AFP, NFS, DNS, DHCP, NAT, UNIX, git, Ubuntu, Open Directory, Kerberos
