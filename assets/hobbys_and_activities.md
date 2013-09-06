@@ -3,120 +3,120 @@
 ## Cleveland Aquarium Society
 
 • Member Since 2010  
-• Given various lectuers about Freshwater Plants, Fish & Invertebrate  
+• Given various lectures about Freshwater Plants, Fish & Invertebrate  
 • Maintain club documentation for CO2 injection   
 
-the Cleveland Aquarium Society is the oldes operating aquarium club in north america. In addition to lecutres, collecting trips & auctions CAS maintaines one of the largest private intchological libraries in the world. 
+the Cleveland Aquarium Society is the lodes operating aquarium club in north america. In addition to lectures, collecting trips & auctions CAS maintains one of the largest private intchological libraries in the world. 
 
 ## Akron Aquarium Club
 
 • Member Since 2010  
-• Given various lectuers about Freshwater Plants, Fish & Invertebrate, Wallsted method, CO2 injecton & Dirted tanks  
-• Award wining cherry red shrimp coloney  
+• Given various lectures about Freshwater Plants, Fish & Invertebrate, Wallsted method, CO2 injection & Dirted tanks  
+• Award wining cherry red shrimp colony  
 
-One of the most active clubs in the state of Ohio, the Akron aquarium club orginizes farious lectures, collecting trips & auctions around the grater Akron/Cleveland Area
+One of the most active clubs in the state of Ohio, the Akron aquarium club organizes various lectures, collecting trips & auctions around the grater Akron/Cleveland Area
 
 ### Lorain County Collecting Trip
 
-• Anual native fish collection trip  
-• Metroparks collection  
+• Annual native fish collection trip  
+• Metro parks collection  
 • Vermillion River Collection  
 
-An anual trip to the various locations on the Vermillion river in Lorain Co. Ohio for the puropse of specimin collection & public education of watershead conservation & native species.  
+An annual trip to the various locations on the Vermillion river in Lorain Co. Ohio for the purpose of specimen collection & public education of watershed conservation & native species.  
 
 ## American Aquatic Gardners
 
 • Member Since 2000  
-• Given various lectuers about Freshwater Plants  
+• Given various lectures about Freshwater Plants  
 • Awards for Aquatic Plants
 
-American Aquatic Gardners is an orginazation of Freshwater Aqaurium enthusiasts primarily focused on the cultivation & exibition of freshwater aquarium & pond/bog plant specimens.  
+American Aquatic Gardeners is an organization of Freshwater Aquarium enthusiasts primarily focused on the cultivation & exhibition of freshwater aquarium & pond/bog plant specimens.  
 
 ## Master Gardeners / American Horticultural Society
 
 • Member Since 2008  
-• Various lecturs on Freshwater Plants, Wallsted Method & CO2 Injection  
+• Various lectures on Freshwater Plants, Wallsted Method & CO2 Injection  
 • Awards for Aquatic Plants
 
-Master Gardners is the *field division* of the American Horticultural Socity focusing on active conservation & horticultural efforts while provideing support for the academic & educational adgendas of the AHS 
+Master Gardeners is the *field division* of the American Horticultural Society focusing on active conservation & horticultural efforts while providing support for the academic & educational agendas of the AHS 
 
-## Infernational Federation of Bicycle Messegers
+## International Federation of Bicycle Messengers
 
 • Member Since 2007  
-• Orginize, Design & Competition of Allycay Races  
+• Organize, Design & Competition of Allycay Races  
 • Kerin Competitor
 
-IFBM is an international fraternal orginazation of professional bicycle couriers. IFMB fills various roles in the Bicycle Messenger comunity, from acting as the governing body for competitive evernts IFBM also provides legal advocay & service for bicyle courers as well as adminitrateing a trust to assist couriers who are injured or killed in the execution of their profession.
+IFBM is an international fraternal organization of professional bicycle couriers. IFMB fills various roles in the Bicycle Messenger community, from acting as the governing body for competitive events IFBM also provides legal advocacy & service for bicycle couriers as well as administrating a trust to assist couriers who are injured or killed in the execution of their profession.
 
 ### Cycle Messenger World Championship
 
-• Orginiztion & Competitor CMWC Toronto 2008  
-• Orginization CMWC Tokyo 2009  
-• Orginize *Camp Courier* for visiting couriers
+• Organization & Competitor CMWC Toronto 2008  
+• Organization CMWC Tokyo 2009  
+• Organize *Camp Courier* for visiting couriers
 
-Competitave event to test skill, resolve & endurance of bicycle couriers. I was involved in both a professional compacity as a recruiter for my dispaters as well as personaly as a competitor. Acitve in the orginization & execution of Toronto event, as well as training of Tokyo Couriers to host the event in their city.
+Competitive event to test skill, resolve & endurance of bicycle couriers. I was involved in both a professional compactly as a recruiter for my disputers as well as personally as a competitor. Active in the organization & execution of Toronto event, as well as training of Tokyo Couriers to host the event in their city.
 
-## Ann Arbor Cycleing Club
+## Ann Arbor Cycling Club
 
 • Member Since 2006  
-• Organize allycat races
+• Organize allocate races
 • Organize club rides
 
-Cycleing Club in Ann Arbor Michigan, focused mainly on group & individual inter/intra-club competition, Also primarty venue for off season training of University of Michigan tour cycleing team.
+Cycling Club in Ann Arbor Michigan, focused mainly on group & individual inter/intra-club competition, Also primary venue for off season training of University of Michigan tour cycling team.
 
 ## Ann Arbor Photographic Society
 
 • Member Since 2005  
 • Various local exhibits  
-• Lectures on alternative process (collodian wet plate & daguerreotype process )  
+• Lectures on alternative process (colloidal wet plate & daguerreotype process )  
 
-Photographic club in an Ann Arbor, MI. While a club member I was active in the orginization & establishment of club darkrooms & equipment bank.
+Photographic club in an Ann Arbor, MI. While a club member I was active in the organization & establishment of club darkrooms & equipment bank.
 
-## Jackson County Cycleing Club
+## Jackson County Cycling Club
 
 • Member Since 2000   
 • Local road & rally races  
 • Organize club rides
 
-The 'pro' cycleing club in my home town. primarily focused on competitve inter-club competitions & matching pajamas. Frequent individual compitition & club training rides.
+The 'pro' cycling club in my home town. primarily focused on competitive inter-club competitions & matching pajamas. Frequent individual competition & club training rides.
 
-## Cascades Cycleing Club
+## Cascades Cycling Club
 
 • Member Since 1999    
 • Local road & trail races  
-• Cross state cycleing trips
+• Cross state cycling trips
 
-the "Other" bycleing club in my home town, primarily focused on distance tour & casual club cycleing. Occasional team participation in various charity & fundraiseing competitions.
+the "Other" cycling club in my home town, primarily focused on distance tour & casual club cycling. Occasional team participation in various charity & fundraising competitions.
 
 ## Michigan Sport Buggy Association
 
 • Member Since 1998  
-• Dunebuddy Design & Construction  
-• Various Drag & Rally Raceing events  
+• Dune buddy Design & Construction  
+• Various Drag & Rally Racing events  
 
-I have been involved if the MSBA in various compacities for as long as I can remember officialy joining the orginasation in 1998. the MSBA is an off road enthusiast club primarily focased on volskwagon flat-four / horizontally opposed powerpland based contraption bulds.
+I have been involved if the MSBA in various complicates for as long as I can remember officially joining the organization in 1998. the MSBA is an off road enthusiast club primarily focused on Volkswagen flat-four / horizontally opposed power plant based contraption builds.
 
-### Sping & Fall Hill Climb
+### Spring & Fall Hill Climb
 
 • Bi-Anual uphill drag race  
-• Pit Crew for *Time Machine* NOS injected sandrail dragster  
-• Competitor for Homebrew sandrail trail buggy  
+• Pit Crew for *Time Machine* NOS injected sand rail dragster  
+• Competitor for Homebrew sand rail trail buggy  
 
 Participate & support family race team as pit crew as well as assist with event operation
 
 ### Fall Colour Run 
 
-• Anual off road trail trip to northern Michigan  
+• Annual off road trail trip to northern Michigan  
 • Primary navigator  
 • General wilderness camping support
 
-Participate & sometimes organize an anual fall trip to northern michigan for camping & off road trail rideing.
+Participate & sometimes organize an annual fall trip to northern Michigan for camping & off road trail ridding.
 
 ## Boy Scouts of America
 
 • Member Since 1996  
-• Anual Northern Ontario pike fishing trip  
+• Annual Northern Ontario pike fishing trip  
 • Phillmont New Mexico trip 
 
-As a member of the Boyscouts of America I lerned various Orginazational & Leadership skills, Serveing as both partol & senior patrol leader multiple times. Orginazation of varius camping trips as well as developing skills in wilderness survilal, sailing, canoe & kayaking, fishing, photography, assisted & astral navigaton, orentering, comunity service & general life skills.
+As a member of the Boy Scouts of America I learned various Organizational & Leadership skills, Serving as both patrol & senior patrol leader multiple times. Organization of various camping trips as well as developing skills in wilderness survival, sailing, canoe & kayaking, fishing, photography, assisted & astral navigation, or entering, community service & general life skills.
 
