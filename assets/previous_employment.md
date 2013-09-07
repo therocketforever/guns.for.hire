@@ -1,5 +1,0 @@
-# Previous Employment
-##
-•
-•
-•
