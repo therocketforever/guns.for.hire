@@ -1,237 +1,28 @@
 # Don Graziano
+an Agile Full Stack Developer
+Active User on GitHub Pull Request Workflow I even use GitHub for {my Grocery list, make a link to the github url}
 
-## Computer Programing & Web Design
 
-### Language Proficiencies
+### Proficiencies
+Make each of keywords outbound links to github and the like
 
-#### HTML
-• Lernt HTML @ summer camp in 5th Grade  
-• Upto date on HTML5 & all it's structured goodness  
-• 
+#### Front End
+Ember.js, HTML5, CSS3, SLIM, HAML, SASS, ECMAScript 6, JavaScript, Markdown
 
-#### CSS
-• Upto date on CSS3 & all it's stylish goodnes
-• 
-• 
-
-#### JavaScript
-• Upto date on ECMAScript 6 & Modern Web Technologies  
-• Acitve Emberino ( Ember.js full stack developer )  
-• 
-
-#### Ruby
-• I think in Ruby ( Seriously )  
-• Upto date with Ruby 2.0
-• 
-
-#### SQL
-• 
-• 
-• 
-
-#### Markdown
-• Obviously  
-• 
-• 
-
-#### YAML
-• 
-• 
-• 
-
-### Frameworks & Software
-
-#### Git
-• Git driven Agile workflow  
-• Fork, Merge, Rebase, Project Management… Managed  
-• New code can be developed, deployed & colaborated on in seconds  
-
-##### Github
-• Active GitHubber & Development Comunity Participant  
-• User of GitHub Pull Request Workflow
-• I even use GitHub for my Grocery list  
+#### Back End
+Rack, Git, Ruby 2.0, Slim, SASS, Sinatra, Grape, Ruby on Rails, DataMapper, Postgres, SQL, YAML SQLite, MongoDB, OAuth2, Heroku.
 
 #### Dev/Ops
-• Agile Full Stack Developer
-• Familiar with All Modern & Popular Operating Systems
-• Familiar with Deploy Tools & Environments such as Heroku, AWS
+Apple OSX Server (Lion, Snow Leopard, Leopard Tiger), Heroku, AWS, Vagrant, VirtualBox, Docker, Ubuntu, Puppet, VMWare (Fusion, ESXi, Workstation)
 
-##### Vagrant
-• Virtual development environments
-• Enables project develoment in isolation to reduce project cross contamination
-• Enables rapid replicatable deployment of development, testing, production  
+#### Image Processing
+Aperture, Adobe Creative Suite #{version?} Photoshop, Illustrator, InDesign
 
-#### Puppet
-• Automation of environment provisioning
-• Facilitates increesed Agility by allowing changes to be rapidly deployed across instances  
-• Provisioning profiles can be easly checked in to Source Control
+#### Misc
+iWork (Pages, Numbers, Keynote), Microsoft Office (Word, Excel, PowerPoint), CalDAV, 
 
-#### Docker
-• Allows for Rapid deployment of containers
-• Easily scalable
-• Easily deployable to production, VM, Private Cloud, Bare Metal
-
-#### Heroku
-• Git driven deployment automation & application hosting
-• 
-• 
-
-#### VirtualBox
-• 
-• 
-• 
-
-#### VMWare (Fusion, ESXi, Workstation)
-• 
-• 
-• 
-
-#### Microsoft Office (Word, Excel, PowerPoint)
-• 
-• 
-• 
-
-#### Apple OSX Server (Lion, Snow Leopard, Leopard Tiger)
-• 
-• 
-• 
-
-#### Aperture
-• 
-• 
-• 
-
-#### iPhoto
-• 
-• 
-• 
-
-#### iWork (Pages, Numbers, Keynote)
-• 
-• 
-• 
-
-#### CalDAV
-• 
-• 
-• 
-
-### Ruby
-• Did I mention that I think in Ruby? 
-• 
-• 
-
-#### Sinatra
-• Classy web development
-• RESTfull Api Design & Implementation
-• 
-
-#### Grape
-• RESTfull API Design & Implementation 
-• 
-• 
-
-#### Rack
-• 
-• 
-• 
-
-#### DataMapper
-• 
-• 
-• 
-
-#### Ruby on Rails
-• 
-• 
-• 
-
-#### Twitter
-• 
-• 
-• 
-
-#### HAML
-• 
-• 
-• 
-
-#### SASS
-• 
-• 
-• 
-
-#### Slim
-• 
-• 
-• 
-
-#### Adobe CS
-• 
-• 
-• 
-
-##### Photoshop
-• 
-• 
-• 
-
-##### Illustrator
-• 
-• 
-• 
-
-##### InDesign
-• 
-• 
-• 
-
-### Social Media
-• 
-• 
-• 
-
-#### Facebook
-• 
-• 
-• 
-
-#### Twitter
-• 
-• 
-• 
-
-#### Tumblr
-• 
-• 
-• 
-
-#### Foursquare
-• 
-• 
-• 
-
-#### Wordpress
-• 
-• 
-• 
-
-#### MovableType
-• 
-• 
-• 
-
-#### YouTube
-• 
-• 
-• 
-
-#### Last.fm
-• 
-• 
-• 
-
-#### Atom/RSS Syndication
+#### APIs #{worked with}
+Twitter, Facebook, Tumblr, Foursquare, Wordpress, MovableType, YouTube, Last.fm, Atom/RSS Syndication
 • 
 • 
 • 
