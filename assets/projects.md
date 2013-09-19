@@ -52,9 +52,9 @@ Ruby, Slim, SASS, Sinatra, DataMapper, SQLite, Postgres, Heroku
 Chartered Mule is an agile dev/ops tool for rapidly deploying & manageing webapps. The primary goal is leverageing Docker in a Vagrent VM to reduce the overhead of running multiple per project VMs. Chartered Mule is intended to rapidly construct scaleable, easily scaleable & potentaly disposable development evnironments freeing the Developer to concentrate less on project setup & maintence and more on codeing & inovative expression.
 
 #### Front End
-HTML5, CSS3, ECMAScript
+HTML5, CSS3, ECMAScript, Git
 #### Back End
-Ruby, Grape, Vagrent, VirtualBox, Docker, Ubuntu
+Ruby, Grape, Foreman, Rake, Git Vagrent, VirtualBox, Docker, Ubuntu
 
 ## Gourami
 
