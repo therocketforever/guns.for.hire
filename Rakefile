@@ -1,16 +1,14 @@
 # CV Assembly
-
-require 'ostruct'
 require "pry"
 
 $cv_sections = {}
 
 namespace :build_tasks do
   task :parse_source_assets do
-    p "Parsing CV Source Assets..."
+    puts "Parsing CV Source Assets..."
 
     Dir.glob("assets/*.md") do |source_asset|
-      p "Processing #{source_asset}..."
+      puts "Processing #{source_asset}..."
       
 
       #this reads the file name without the extension & convert to symbol
@@ -35,31 +33,53 @@ namespace :build_tasks do
   end
 
   task :construct_cv_object do
-    p "Constructing CV Object..."
+    puts "Constructing CV Object..."
 
     # An object to store the CV data
     class CurriculumVitae
-
-      attr_reader :sections
 
       def initialize
 
         # This is the bigest uglyist map/reduce maybe ever & get all the arrays in @cv_sections. Fuckyeahmapreduce.
         # Aditionaly, set the CV @ivars to the sections & set the accessors. dynamicly. boom.
         @cv_data = $cv_sections.each {|section| section.reduce({}) {|accu, (section_key, section_body)| accu[section_key] ||= {}; accu }.map{|k,h| h[:section_key] = k;h}}
+        
+        # Populate @sections with section titles as :symbols
         @cv_data.keys.each {|key| define_singleton_method(key) { instance_variable_get("@#{key}") }}
-        @cv_data.each { |name, value| instance_variable_set("@#{name}", value) }  
-        binding.pry
+        @cv_data.each { |name, value| instance_variable_set("@#{name}", value) } 
+
+      end
+
+      def sections
+        @cv_data.keys
       end
     end
 
     CV = CurriculumVitae.new
 
-    binding.pry
   end
 
   task :assemble_cv do
-    p "Building CV..."
+    puts "Building CV..."
+    
+    # An array to hold our polished markdown
+    clean_data = []
+    
+    # Process all sections into an array of clean markdown strings
+    CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
+
+    # Make sure the build directory is clean
+    puts "Checking build Directory..."
+    Dir.mkdir("build") unless File.exists? "build"
+    File.delete("build/cv.md") if File.exists? "build/cv.md"
+
+    # Write it all out to build/cv.md
+    puts "Writeing CV data to `build/cv.md`"
+    clean_data.each {|line| File.open("build/cv.md", 'a'){|f| f.write( line )}}
+
+
+    #binding.pry
+    puts "CV build complete!"
   end
 
 end
