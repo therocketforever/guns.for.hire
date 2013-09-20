@@ -66,7 +66,8 @@ namespace :build_tasks do
     clean_data = []
     
     # Process all sections into an array of clean markdown strings
-    CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
+    #CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
+    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join }}
 
     # Make sure the build directory is clean
     puts "Checking build Directory..."
