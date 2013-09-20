@@ -46,8 +46,8 @@ namespace :build_tasks do
 
         #this is the bigest uglyist map/reduce maybe ever & get all the arrays in @cv_sections. Fuckyeahmapreduce.
         @cv_data = $cv_sections.each {|section| section.reduce({}) {|accu, (section_key, section_body)| accu[section_key] ||= {}; accu }.map{|k,h| h[:section_key] = k;h}}
+        @cv_data.keys.each {|key| define_singleton_method(key) { instance_variable_get("@#{key}") }}
         @cv_data.each { |name, value| instance_variable_set("@#{name}", value) }  
-
         binding.pry
       end
     end
