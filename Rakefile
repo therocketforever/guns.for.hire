@@ -43,12 +43,12 @@ namespace :build_tasks do
       attr_reader :sections
 
       def initialize
-        @cv_sections = $cv_sections
-        @section_keys = @cv_sections.keys
-       # @sections = @cv_sections.each { | , value| instance_variable_set("@#{name}", value) }
-        binding.pry
 
-        #$cv_sections.values.each {|s| s.values.each {|l| puts l}}
+        #this is the bigest uglyist map/reduce maybe ever & get all the arrays in @cv_sections. Fuckyeahmapreduce.
+        @cv_data = $cv_sections.each {|section| section.reduce({}) {|accu, (section_key, section_body)| accu[section_key] ||= {}; accu }.map{|k,h| h[:section_key] = k;h}}
+        @cv_data.each { |name, value| instance_variable_set("@#{name}", value) }  
+
+        binding.pry
       end
     end
 
