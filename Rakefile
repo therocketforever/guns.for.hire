@@ -44,7 +44,8 @@ namespace :build_tasks do
 
       def initialize
 
-        #this is the bigest uglyist map/reduce maybe ever & get all the arrays in @cv_sections. Fuckyeahmapreduce.
+        # This is the bigest uglyist map/reduce maybe ever & get all the arrays in @cv_sections. Fuckyeahmapreduce.
+        # Aditionaly, set the CV @ivars to the sections & set the accessors. dynamicly. boom.
         @cv_data = $cv_sections.each {|section| section.reduce({}) {|accu, (section_key, section_body)| accu[section_key] ||= {}; accu }.map{|k,h| h[:section_key] = k;h}}
         @cv_data.keys.each {|key| define_singleton_method(key) { instance_variable_get("@#{key}") }}
         @cv_data.each { |name, value| instance_variable_set("@#{name}", value) }  
