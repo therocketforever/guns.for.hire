@@ -1,4 +1,6 @@
-# CV Assembly
+# Curriculum Vitae Assembly
+# Quick app to process markdown components into a markdown formated Curriculum Vitae for Don Graziano
+
 require "pry"
 
 $cv_sections = {}
