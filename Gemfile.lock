@@ -12,7 +12,10 @@ GEM
     io-console (0.3)
     kramdown (1.2.0)
     method_source (0.8.2)
+    mini_portile (0.5.1)
     multi_json (1.8.0)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
       method_source (~> 0.8)
@@ -54,6 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   kramdown
+  nokogiri
   pry
   pry-coolline
   pry-nav

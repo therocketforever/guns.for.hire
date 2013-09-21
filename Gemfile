@@ -8,6 +8,7 @@ gem "sass"
 gem "slim"
 gem "kramdown"
 gem "sprockets"
+gem "nokogiri"
 
 group :development do
   gem "pry"
