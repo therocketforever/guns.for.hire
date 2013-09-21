@@ -6,7 +6,6 @@ gem "sinatra"
 gem "thin"
 gem "sass"
 gem "slim"
-#gem "redcarpet"
 gem "kramdown"
 gem "sprockets"
 
