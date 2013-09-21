@@ -1,13 +1,13 @@
 class Application < Sinatra::Base
 
-  enable :logging
+  enable :inline_templates,:logging
 
   configure(:production) { Bundler.require(:production) }
   configure(:development) { Bundler.require(:development) }
   configure(:test) {}
 
   get '/' do
-    slim :blue
+    slim :index
   end
 
   get '/dot' do
