@@ -6,6 +6,7 @@ gem "sinatra"
 gem "thin"
 gem "sprockets"
 gem "slim"
+gem "redcarpet"
 
 group :development do
   gem "pry"
