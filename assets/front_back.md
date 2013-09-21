@@ -11,3 +11,4 @@ VirtualBox, VMWare, ESXi, Docker, Vagrant, Boxen, Puppet, OSX Client (10.2, 10.3
 
 ## Tools & Technologies
 Vi/m, Emacs, Bash, Zsh, Fish, XCode, TextMate, Sublime Text, Espresso, Photoshop, Illustrator, InDesign, Acrobat, MS Office (Word, Excel, PowerPoint, Outlook), Apple iWork (Keynote, Numbers, Pages), Espresso, CSSEdit, Tower, Github for Mac, Kaleidoscope, Versions, Coda 1 & 2, Firefox, Safari, Internet Explorer, Pow
+

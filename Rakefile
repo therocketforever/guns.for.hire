@@ -61,6 +61,8 @@ namespace :build_tasks do
 
   end
 
+
+  # This task will a straight textfile as markdown. It will strip out any lines with kramdown style delimiters ("{:")
   task :assemble_cv do
     puts "Building CV..."
     
@@ -69,7 +71,7 @@ namespace :build_tasks do
     
     # Process all sections into an array of clean markdown strings
     #CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
-    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join }}
+    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join unless line[0..1] == "{:"}}
 
     # Make sure the build directory is clean
     puts "Checking build Directory..."
@@ -85,7 +87,37 @@ namespace :build_tasks do
     puts "CV build complete!"
   end
 
+  # This task will build a markdown file for the web useing kramdowdown delimiters to set style classes 
+  task :assemble_cv_styled do
+    puts "Building CV with styles..."
+    
+    # An array to hold our polished markdown
+    clean_data = []
+    
+    # Process all sections into an array of clean markdown strings
+    #CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
+    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join }}
+
+    # Make sure the build directory is clean
+    puts "Checking build Directory..."
+    Dir.mkdir("build") unless File.exists? "build"
+    File.delete("build/cv_styled.md") if File.exists? "build/cv_styled.md"
+
+    # Write it all out to build/cv.md
+    puts "Writeing CV data to `build/cv_styled.md`"
+    clean_data.each {|line| File.open("build/cv_styled.md", 'a'){|f| f.write( line )}}
+
+
+    #binding.pry
+    puts "CV build with style classes complete!"
+
+  end
+
 end
 
 task :all => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv"]
+
+task :build_styled => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv_styled"]
+
 task :default => [:all]
+

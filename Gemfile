@@ -6,7 +6,8 @@ gem "sinatra"
 gem "thin"
 gem "sass"
 gem "slim"
-gem "redcarpet"
+#gem "redcarpet"
+gem "kramdown"
 gem "sprockets"
 
 group :development do

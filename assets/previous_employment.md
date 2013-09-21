@@ -119,4 +119,5 @@ Ann Arbor, MI - *May 2004 - September 2005*
 • Manage multiple customer orders & deliver food from kitchen
 • General shop operations & maintenance (side work)
 
-As a server for Café Felix responsibilities include tasks such as waiting tables, managing time & prompt delivery of customer orders. Dinning areas include both indoor seating & sidewalk/patio service. Effective communication & teamwork stills are essential to exceptional execution of operational tasks. Customer service skills are essential. 
+As a server for Café Felix responsibilities include tasks such as waiting tables, managing time & prompt delivery of customer orders. Dinning areas include both indoor seating & sidewalk/patio service. Effective communication & teamwork stills are essential to exceptional execution of operational tasks. Customer service skills are essential.
+
