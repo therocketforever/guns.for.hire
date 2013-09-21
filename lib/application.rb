@@ -11,15 +11,15 @@ class Application < Sinatra::Base
   end
 
   get '/dot' do
-    "dot"
+    slim :dot
   end
 
   get '/space' do
-    "space"
+    slim :space
   end
 
   get '/blue' do
-    "blue"
+    slim :blue
   end
 
 
