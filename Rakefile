@@ -1,7 +1,8 @@
 # Curriculum Vitae Assembly
 # Quick app to process markdown components into a markdown formated Curriculum Vitae for Don Graziano
 
-require "pry"
+require "bundler/setup"
+Bundler.require(:development)
 
 $cv_sections = {}
 
@@ -70,8 +71,9 @@ namespace :build_tasks do
     clean_data = []
     
     # Process all sections into an array of clean markdown strings
-    #CV.sections.each{ |section| CV.send(section).values.each {|line| unless line[0] == "#" || line.empty? then clean_data << [line, "  \n"].join else clean_data << line end }}
-    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join unless line[0..1] == "{:"}}
+    # Also strip out inline HTML from kramdown for straight markdown
+    #CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << [line, "  \n"].join unless line[0..1] == "{:"}}
+    CV.sections.each{ |section| CV.send(section).values.each {|line| clean_data << unless line.empty? then Nokogiri::HTML(([line, "  \n"].join unless line[0..1] == "{:")).text else ([line, "  \n"].join unless line[0..1] == "{:") end  }}
 
     # Make sure the build directory is clean
     puts "Checking build Directory..."
@@ -115,7 +117,9 @@ namespace :build_tasks do
 
 end
 
-task :all => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv"]
+task :all => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv", "build_tasks:assemble_cv_styled"]
+
+task :build_unstyled => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv"]
 
 task :build_styled => ["build_tasks:parse_source_assets", "build_tasks:construct_cv_object", "build_tasks:assemble_cv_styled"]
 
