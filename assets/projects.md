@@ -1,4 +1,5 @@
 # Projects
+{: .section_title}
 
 ## RunRun Bicycle Couriers
 
@@ -11,6 +12,7 @@ A dispatch & control system for bicycle couriers. This system has three componen
 
 #### Front End
 HTML5, CSS3, ECMAScript
+
 #### Back End
 Ruby, Slim, SASS, Sinatra, Grape, DataMapper, Postgres, MongoDB, OAuth2, Heroku
 
@@ -27,6 +29,7 @@ HexScan is an Ember.js based tool for accessing the void API to test playfield c
 
 #### Front End
 Ember.js, HTML5, CSS3, ECMAScript
+
 #### Back End
 Ruby, Slim, SASS, Grape, Sinatra, DataMapper, SQLite, MongoDB, Postgres, OAuth2, Heroku
 
@@ -54,6 +57,7 @@ Chartered Mule is an agile dev/ops tool for rapidly deploying & manageing webapp
 
 #### Front End
 HTML5, CSS3, ECMAScript, Git
+
 #### Back End
 Ruby, Grape, Foreman, Rake, Git Vagrent, VirtualBox, Docker, Ubuntu
 
@@ -67,6 +71,7 @@ Gourami is an opinionated, clonable, functional, scalable & flexile web applicat
 
 #### Front End
 HTML5, CSS3, ECMAScript
+
 #### Back End
 Ruby, Slim, SASS, Sinatra, Grape, DataMapper
 
@@ -79,6 +84,7 @@ My personal Xserve & Fiber Channel RAID Array. Owning a functional Data Center G
 
 #### Front End
 OSX Lion, Apple Remote Desktop, SSH, The Internet
+
 #### Back End
 Ruby, Xserve, Fiber Channel RAID, L2TP/IPSec VPN, CalDAV, AFP, NFS, DNS, DHCP, NAT, UNIX, git, Ubuntu, Open Directory, Kerberos
 

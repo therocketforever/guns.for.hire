@@ -1,4 +1,5 @@
 # Technologies
+{: .section_title}
 
 ## Front End
 HTML5, CSS3, ECMAScript(JavaScript), Ember.js, Handlebars, Ember-Data, Node.js, jQuery, Right.js, Lovely.io, JSON, RESTFfull API Design, HATEOS, iOS, OSX

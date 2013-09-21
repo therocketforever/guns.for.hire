@@ -22,6 +22,6 @@ class Application < Sinatra::Base
     slim :blue
   end
 
-
-
 end
+
+binding.pry

@@ -1,4 +1,5 @@
 # Hobbies & Activities
+{: .section_title}
 
 ## Cleveland Aquarium Society
 

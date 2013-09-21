@@ -1,4 +1,5 @@
 # Education
+{: .section_title}
 
 ## Eastern Michigan University
 Ypsilanti, MI
