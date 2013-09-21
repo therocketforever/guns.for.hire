@@ -4,9 +4,10 @@ ruby "2.0.0"
 
 gem "sinatra"
 gem "thin"
-gem "sprockets"
+gem "sass"
 gem "slim"
 gem "redcarpet"
+gem "sprockets"
 
 group :development do
   gem "pry"
