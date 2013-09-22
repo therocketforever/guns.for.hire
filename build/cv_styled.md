@@ -1,4 +1,5 @@
-#  Don Graziano  
+# <span class = "name2"> Don Graziano  
+{: .say_my_name}  
   
 +1 (734) 747 0412  
 *therocketforever@me.com*  
@@ -11,6 +12,7 @@ http://www.dongraziano.com
 https://github.com/therocketforever  
   
 # Education  
+{: .section_title}  
   
 ## Eastern Michigan University  
 Ypsilanti, MI  
@@ -58,6 +60,7 @@ Hanover, MI
 I attended Hanover-Horton Elementary School in Hanover Michigan. In 5th grade I was selected to compete on one of the schools original two *Odyssey of the mind* teams achieving regional victories three times & a semi-final victory once. At an early age my teachers noticed an aptitude for computers & in 6th grade I was allowed to participate in the Junior High level computer classes providing my initial exposer to HTML, The UNIX operating system & the Internet.  
   
 # Technologies  
+{: .section_title}  
   
 ## Front End  
 HTML5, CSS3, ECMAScript(JavaScript), Ember.js, Handlebars, Ember-Data, Node.js, jQuery, Right.js, Lovely.io, JSON, RESTFfull API Design, HATEOS, iOS, OSX  
@@ -72,6 +75,7 @@ VirtualBox, VMWare, ESXi, Docker, Vagrant, Boxen, Puppet, OSX Client (10.2, 10.3
 Vi/m, Emacs, Bash, Zsh, Fish, XCode, TextMate, Sublime Text, Espresso, Photoshop, Illustrator, InDesign, Acrobat, MS Office (Word, Excel, PowerPoint, Outlook), Apple iWork (Keynote, Numbers, Pages), Espresso, CSSEdit, Tower, Github for Mac, Kaleidoscope, Versions, Coda 1 & 2, Firefox, Safari, Internet Explorer, Pow  
   
 # Hobbies & Activities  
+{: .section_title}  
   
 ## Cleveland Aquarium Society  
   
@@ -194,6 +198,7 @@ Participate & sometimes organize an annual fall trip to northern Michigan for ca
 As a member of the Boy Scouts of America I learned various Organizational & Leadership skills, Serving as both patrol & senior patrol leader multiple times. Organization of various camping trips as well as developing skills in wilderness survival, sailing, canoe & kayaking, fishing, photography, assisted & astral navigation, or entering, community service & general life skills.  
   
 # Previous Employment  
+{: .section_title}  
   
 ## Clarity Communications Advisors, Inc.  
 Southfield, MI  - *July 2013 - August 2013*  
@@ -272,7 +277,8 @@ Toronto, ON - *May 2007 - July 2009*
   
 As a Courier for Cy's expedient & effective execution of tasked deliveries was critical to mission success. Clients included Various Jewelers & Gem Cutters, The Municipal Courts of Toronto, The Provincial Courts of Ontario & The Crown Courts of Canada as well as various Lawyers, Legal services, Brokerage Firms & NGOs. Also included in our client list are Financial Institutions such as Soctiabank, Bank of Montreal, Toronto Dominion & The Toronto Stock Exchange. Discretion & security are essential services required by clients in the transport of various valuable & sensitive documents & materials.  
   
-## H&MAnn Arbor, MI - *May 2006 - December 2006*  
+## H&M  
+Ann Arbor, MI - *May 2006 - December 2006*  
   
 ### Stockroom Manager / Shipping & Receiving  
   
@@ -316,6 +322,7 @@ Ann Arbor, MI - *May 2004 - September 2005*
 As a server for Café Felix responsibilities include tasks such as waiting tables, managing time & prompt delivery of customer orders. Dinning areas include both indoor seating & sidewalk/patio service. Effective communication & teamwork stills are essential to exceptional execution of operational tasks. Customer service skills are essential.  
   
 # Projects  
+{: .section_title}  
   
 ## RunRun Bicycle Couriers  
   

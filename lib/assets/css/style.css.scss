@@ -1,0 +1,19 @@
+@import "normalize";
+@import "shame";
+
+html {
+  body{
+    padding: 1 rem;
+    width: 90%;
+    margin: auto;
+
+    p{
+      font-size: 1 rem;
+    }
+    
+    .section_title{
+      text-decoration: underline;
+    }
+
+  }
+}

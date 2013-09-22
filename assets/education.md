@@ -1,4 +1,5 @@
 # Education
+{: .section_title}
 
 ## Eastern Michigan University
 Ypsilanti, MI
@@ -44,3 +45,4 @@ Hanover, MI
 • Advanced placement in Computer classes  
 
 I attended Hanover-Horton Elementary School in Hanover Michigan. In 5th grade I was selected to compete on one of the schools original two *Odyssey of the mind* teams achieving regional victories three times & a semi-final victory once. At an early age my teachers noticed an aptitude for computers & in 6th grade I was allowed to participate in the Junior High level computer classes providing my initial exposer to HTML, The UNIX operating system & the Internet.
+

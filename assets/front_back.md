@@ -1,4 +1,5 @@
 # Technologies
+{: .section_title}
 
 ## Front End
 HTML5, CSS3, ECMAScript(JavaScript), Ember.js, Handlebars, Ember-Data, Node.js, jQuery, Right.js, Lovely.io, JSON, RESTFfull API Design, HATEOS, iOS, OSX
@@ -11,3 +12,4 @@ VirtualBox, VMWare, ESXi, Docker, Vagrant, Boxen, Puppet, OSX Client (10.2, 10.3
 
 ## Tools & Technologies
 Vi/m, Emacs, Bash, Zsh, Fish, XCode, TextMate, Sublime Text, Espresso, Photoshop, Illustrator, InDesign, Acrobat, MS Office (Word, Excel, PowerPoint, Outlook), Apple iWork (Keynote, Numbers, Pages), Espresso, CSSEdit, Tower, Github for Mac, Kaleidoscope, Versions, Coda 1 & 2, Firefox, Safari, Internet Explorer, Pow
+

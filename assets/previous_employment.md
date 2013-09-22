@@ -1,4 +1,5 @@
 # Previous Employment
+{: .section_title}
 
 ## Clarity Communications Advisors, Inc.
 Southfield, MI  - *July 2013 - August 2013*
@@ -88,7 +89,7 @@ Ann Arbor, MI - *May 2006 - December 2006*
 
 As Stockroom Manager for H&M responsibilities included managing chain of custody for salable merchandise & processing of products to the sales floor. As well inventory, loss prevention, organization of the stock room fell within the scope of responsibility. As H&M employs a vertically integrated logistics chain coordinating with Overseas production facilities, Container Ships & Freight trucks transporting product, and Regional Warehouses was often required to ensure a constant stream of merchandise salable to our market. As well supporting shop management & visual merchandiser in the tracking of received merchandise with respect to sold merchandise was required to ensure that the product we receive would be desirable to our market. As Stockroom Manager for H&M I designed & implemented a new processing system that resulted in the reduction & eventual elimination of product processing backlog. subsequently Stock Managers for shops in Lansing, MI & Troy, MI were trained in my method resulting in the reduction & eventual elimination of processing backlog at the respective shops.
 
-## Eastern Michigan University (School of Art)
+## Eastern Michigan University ( School of Art )
 Ann Arbor, MI - *August 2005 - December 2006*
 
 ### Photographic Laboratory Technician
@@ -119,4 +120,5 @@ Ann Arbor, MI - *May 2004 - September 2005*
 • Manage multiple customer orders & deliver food from kitchen
 • General shop operations & maintenance (side work)
 
-As a server for Café Felix responsibilities include tasks such as waiting tables, managing time & prompt delivery of customer orders. Dinning areas include both indoor seating & sidewalk/patio service. Effective communication & teamwork stills are essential to exceptional execution of operational tasks. Customer service skills are essential. 
+As a server for Café Felix responsibilities include tasks such as waiting tables, managing time & prompt delivery of customer orders. Dinning areas include both indoor seating & sidewalk/patio service. Effective communication & teamwork stills are essential to exceptional execution of operational tasks. Customer service skills are essential.
+
