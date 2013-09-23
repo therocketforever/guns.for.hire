@@ -13,6 +13,6 @@ Horton, MI 49246
 ### On the internet
 {: .section_sub_title}
 
-http://www.dongraziano.com
-https://github.com/therocketforever
+*http://www.dongraziano.com*
+*https://github.com/therocketforever*
 
