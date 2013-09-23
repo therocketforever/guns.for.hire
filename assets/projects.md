@@ -81,3 +81,20 @@ My personal Xserve & Fiber Channel RAID Array. Owning a functional Data Center G
 OSX Lion, Apple Remote Desktop, SSH, The Internet
 #### Back End
 Ruby, Xserve, Fiber Channel RAID, L2TP/IPSec VPN, CalDAV, AFP, NFS, DNS, DHCP, NAT, UNIX, git, Ubuntu, Open Directory, Kerberos
+
+
+## Guns.for.Hire
+
+• This Document & the associated resources
+• Automaticly compile markdown for print & portability
+• Automaticly compile cramdown for presentarion
+
+Guns for hire is my Curriculum Vitae. Versioned with git, structured with Markdown/Kramdown, and automaticly compiled and processed from the source files to various document formats. The processing is done via rake build tasks to pull in the various sections as markdown source documents & compile it all into a single document. The task is structured as an object that allows fine grain manipulation on a line by line base should edits or changes be nessicary. Also included is a basic Sinatra/Rack app to present the raw Markdown as not only a stuctured document but styled as well. I also use this document & corrisponding repositories to instruct friends & collouges in the github *pull request* based workflow.
+
+### Front End
+HTML5, CSS3, Markdown
+
+### Back End
+Ruby, Git, Rake, Kramdown, SASS
+
+
