@@ -7,12 +7,25 @@ html {
     width: 90%;
     margin: auto;
 
+    h2{
+      font-size: 1.5rem;
+    }
+
     p{
       font-size: 1 rem;
     }
     
     .section_title{
       text-decoration: underline;
+    }
+
+    .sub_title_details{
+      font-size: 1.5rem;
+      font-weight: lighter;
+    }
+
+    .who_am_i{
+      font-size: 4rem;
     }
 
   }

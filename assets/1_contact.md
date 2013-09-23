@@ -1,7 +1,7 @@
 # <span class = "who_am_i"> Don Graziano
 {: .say_my_name}
 
-Agile full stack dev/ops implementing a more RESTfull world through beautiful code
+*Agile full stack dev/ops implementing a more RESTfull world through beautiful code*
 {: .tagline}
 
 +1 (734) 747 0412
