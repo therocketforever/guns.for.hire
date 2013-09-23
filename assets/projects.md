@@ -1,6 +1,8 @@
 # Projects
+{: .section_title}
 
 ## RunRun Bicycle Couriers
+{: .section_sub_title}
 
 * Closed source - code samples avalable on request *
 
@@ -18,6 +20,7 @@ Ruby, Slim, SASS, Sinatra, Grape, DataMapper, Postgres, MongoDB, OAuth2, Heroku,
 
 
 ## The Void/HexScan
+{: .section_sub_title}
 
 * _The Void_: closed source - code samples avalable on request *
 * _HexScan_: http://thevoid.herokuapp.com/scan *
@@ -38,6 +41,7 @@ Ember.js, HTML5, CSS3, ECMAScript, JSON
 Ruby, Slim, SASS, Grape, Sinatra, DataMapper, SQLite, MongoDB, Postgres, OAuth2, Heroku, Cucumber,
 
 ## Unicorns
+{: .section_sub_title}
 
 * https://github.com/therocketforever/unicorns *
 
@@ -54,6 +58,7 @@ HTML5, CSS3, ECMAScript
 Ruby, Slim, SASS, Sinatra, DataMapper, SQLite, Postgres, Heroku, Cucumber
 
 ## Chartered Mule
+{: .section_sub_title}
 
 * https://github.com/therocketforever/chartered_mule *
 
@@ -70,6 +75,7 @@ HTML5, CSS3, ECMAScript, Git
 Ruby, Grape, Foreman, Rake, Git Vagrent, VirtualBox, Docker, Ubuntu
 
 ## Gourami
+{: .section_sub_title}
 
 * https://github.com/therocketforever/gourami *
 
@@ -86,6 +92,7 @@ HTML5, CSS3, ECMAScript
 Ruby, Slim, SASS, Sinatra, Grape, DataMapper, Cucumber
 
 ## Xserve & Fiber Channel RAID Array
+{: .section_sub_title}
 
 * access restricted - demonstration avalible uppon request *
 
@@ -103,8 +110,9 @@ Ruby, Xserve, Fiber Channel RAID, L2TP/IPSec VPN, CalDAV, AFP, NFS, DNS, DHCP, N
 
 
 ## Guns.for.Hire
+{: .section_sub_title}
 
-*https://github.com/therocketforever/guns.for.hire*
+* https://github.com/therocketforever/guns.for.hire *
 
 • This Document & the associated resources
 • Automaticly compile markdown for print & portability
