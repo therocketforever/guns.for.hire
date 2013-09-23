@@ -124,6 +124,6 @@ Guns for hire is my Curriculum Vitae. Versioned with git, structured with Markdo
 HTML5, CSS3, Markdown
 
 ### Back End
-Ruby, Git, Rake, Kramdown, SASS
+Ruby, Git, Rake, Kramdown, SASS, Nokogiri
 
 
