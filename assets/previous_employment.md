@@ -10,7 +10,7 @@
 • Implement Migration from Old Sip/PBX system to new Scalable Solution 
 • Work with Operations & Network Engineer to Deploy Product
 
-As an Application Developer for Clarity Communications Advisors, Inc. responsibilities involved taking ownership of product & service development from the CTO, as well as working closely with the Network Engineer to implement these new systems. Additionally the migration from a non-scalar Sip/Pbx legacy PHP based system to a modern scalable VoIP implementation fell with in the scope of responsibility. Additionally this migration involved the integration of a legacy PHP based accounting & ratting system. When I joined Clarity not a single product or system was managed with source control of any kind. Implemented source control using git as well as integration with various vendors using various revision control systems including CVS & SVN as well as implementation of a three tired development/staging/production system. 
+As an Application Developer for Clarity Communications Advisors, Inc. responsibilities involved taking ownership of product & service development from the CTO, as well as working closely with the Network Engineer to implement these new systems. Additionally the migration from a non-scalar Sip/PBX legacy PHP based system to a modern scalable VoIP implementation fell with in the scope of responsibility. Additionally this migration involved the integration of a legacy PHP based accounting & ratting system. When I joined Clarity not a single product or system was managed with source control of any kind. Implemented source control using git as well as integration with various vendors using various revision control systems including CVS & SVN as well as implementation of a three tired development/staging/production system. 
 
 ## Sava's State Street Café <span class = "sub_title_details">Ann Arbor, MI - *June 2011 - August 2011* 
 {: .section_sub_title}
@@ -39,7 +39,7 @@ As a Delivery Driver for Jimmy John's the sole responsibility is freaky fast del
 
 ### Shipping & Receiving / Logistics Support
 
-• Receive & Process daily salable merchendise shipment
+• Receive & Process daily salable merchandise shipment
 • Support Visual Merchandiser & Determine product processing priorities
 • Manage custody for Send Sale & Online Orders
 
@@ -63,9 +63,9 @@ As a Bicycle Courier for Road Runner Bicycle Couriers responsibilities include t
 
 • Transport parcels & storage media between production & post production facilities
 • Deliver delicate & time sensitive goods such at Hard Disks & Beta Tape
-• Navigate city streets & traffic to facilitate efficient & effective delivery of time sensitive materials
+• Navigate City streets & traffic to facilitate efficient & effective delivery of time sensitive materials
 
-As a Courier for Zap! speed, accuracy & reliability are skills essential to successful execution of assigned tasks. Although a majority of our volume comes from production/postproduction for the Film & Delayed Broadcast television industry a significant portion of tasks support live broadcast, local & provincial news, and Sport broadcast. Clients included such companies as CBC Television & Radio, Toronto Symphony, Much Music, MTV Canada, Deluxe Media, TatterSail Audio, & Various Film production companies. Efficient & accurate delivery of materials in the allocated time frame is essential to effective execution of assigned tasks In many cases tardiness could result in broadcast delays.
+As a Courier for Zap! Speed, accuracy & reliability are skills essential to successful execution of assigned tasks. Although a majority of our volume comes from production/postproduction for the Film & Delayed Broadcast television industry a significant portion of tasks support live broadcast, local & provincial news, and Sport broadcast. Clients included such companies as CBC Television & Radio, Toronto Symphony, Much Music, MTV Canada, Deluxe Media, TatterSail Audio, & Various Film production companies. Efficient & accurate delivery of materials in the allocated time frame is essential to effective execution of assigned tasks In many cases tardiness could result in broadcast delays.
 
 ## Cy's Courier House <span class = "sub_title_details">Toronto, ON - *May 2007 - July 2009*
 {: .section_sub_title}
@@ -87,18 +87,18 @@ As a Courier for Cy's expedient & effective execution of tasked deliveries was c
 • Support Visual Merchandiser & Determine product processing priorities
 • Support Store Manager & Shop Operations
 
-As Stockroom Manager for H&M responsibilities included managing chain of custody for salable merchandise & processing of products to the sales floor. As well inventory, loss prevention, organization of the stock room fell within the scope of responsibility. As H&M employs a vertically integrated logistics chain coordinating with Overseas production facilities, Container Ships & Freight trucks transporting product, and Regional Warehouses was often required to ensure a constant stream of merchandise salable to our market. As well supporting shop management & visual merchandiser in the tracking of received merchandise with respect to sold merchandise was required to ensure that the product we receive would be desirable to our market. As Stockroom Manager for H&M I designed & implemented a new processing system that resulted in the reduction & eventual elimination of product processing backlog. subsequently Stock Managers for shops in Lansing, MI & Troy, MI were trained in my method resulting in the reduction & eventual elimination of processing backlog at the respective shops.
+As Stockroom Manager for H&M responsibilities included managing chain of custody for salable merchandise & processing of products to the sales floor. As well inventory, loss prevention, organization of the stock room fell within the scope of responsibility. As H&M employs a vertically integrated logistics chain coordinating with Overseas production facilities, Container Ships & Freight trucks transporting product, and Regional Warehouses was often required to ensure a constant stream of merchandise salable to our market. As well supporting shop management & visual merchandiser in the tracking of received merchandise with respect to sold merchandise was required to ensure that the product we receive would be desirable to our market. As Stockroom Manager for H&M I designed & implemented a new processing system that resulted in the reduction & eventual elimination of product processing backlog. Subsequently Stock Managers for shops in Lansing, MI & Troy, MI were trained in my method resulting in the reduction & eventual elimination of processing backlog at the respective shops.
 
 ## Eastern Michigan University (School of Art) <span class = "sub_title_details">Ann Arbor, MI - *August 2005 - December 2006*
 {: .section_sub_title}
 
 ### Photographic Laboratory Technician
 
-• Manage Darkroom/Wetlab access & schedule usage
+• Manage Darkroom/Wet-lab access & schedule usage
 • Prepare photographic chemistry
 • Maintain Laboratory tools & equipment
 
-As a Laboratory Technician for the Darkrooms & Wetlabs at Eastern  Michigan University my responsibilities included tasks such as scheduling use & maintenance of laboratory equipment, tools, and facilities. Additionally preparing working chemistry from stock solution as well as synthesizing exotic chemistry such as Sepia, Selenium & Cyno toners and processing chemistry for Collodion Process & Mercury Vapor for Daguerreotype process. Effective execution of laboratory support tasks often involves processing, handling & disposal of various hazardous materials such as cyanide, mercury, selenium, cadmium, potassium chloride & spent photo fix saturated with various heavy metals.
+As a Laboratory Technician for the Darkrooms & Wet-labs at Eastern  Michigan University my responsibilities included tasks such as scheduling use & maintenance of laboratory equipment, tools, and facilities. Additionally preparing working chemistry from stock solution as well as synthesizing exotic chemistry such as Sepia, Selenium & Cyano toners and processing chemistry for Collodion Process & Mercury Vapor for Daguerreotype process. Effective execution of laboratory support tasks often involves processing, handling & disposal of various hazardous materials such as cyanide, mercury, selenium, cadmium, potassium chloride & spent photo fix saturated with various heavy metals.
 
 ## Great Wraps <span class = "sub_title_details">Ann Arbor, MI - *September 2005 - May 2006*
 {: .section_sub_title}

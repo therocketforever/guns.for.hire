@@ -29,7 +29,7 @@ After High school I matriculated at the local Community Collage further perusing
 
 Further complications from my general disinterest in attending classes led to an opportunity to not only attend the local vocational school for Computer Service Technology but to also become dual enrolled at the local community collage gaining access to more advanced instruction in computer operation & service. While attending JACC I first encountered the SmallTalk & Ruby programing Languages.
 
-## Hanover-Horton Highschool <span class = "education_location">Horton, MI
+## Hanover-Horton High school <span class = "education_location">Horton, MI
 {: .section_sub_title}
 
 • *Zero Hour* class maintaining school servers & network infrastructure
