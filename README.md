@@ -2,17 +2,17 @@
   
 Agile full stack dev/ops implementing a more RESTfull world through beautiful code  
   
-t. *REDACTED*
-e. *REDACTED*
+t. *REDACTED*  
+e. *REDACTED*  
   
-a. *REDACTED*
+a. *REDACTED*  
   
 ### On the internet  
   
 *http://www.dongraziano.com*  
 *https://github.com/therocketforever*  
 
-@therocket4ever on twitter
+@therocket4ever on twitter  
   
 # Education  
   
