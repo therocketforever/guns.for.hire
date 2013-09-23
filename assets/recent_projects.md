@@ -1,4 +1,4 @@
-# Projects
+# <span class = "recent_projects">Recent Projects
 {: .section_title}
 
 ## RunRun Bicycle Couriers
