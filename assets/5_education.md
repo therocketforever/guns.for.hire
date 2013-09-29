@@ -1,7 +1,7 @@
 # <span class = "education">Education
 {: .section_title}
 
-## Eastern Michigan University <span class = "sub_title_details">Ypsilanti, MI
+## Eastern Michigan University <span class = "sub_title_details">*Ypsilanti, MI*
 {: .section_sub_title}
 
 
@@ -11,7 +11,7 @@
 
 I attended Eastern Michigan University as a Fine Art student studying Photography & Curation. During this time I organized & participated in various local shows, exhibitions, and events. While in university I was a resident of the Eugene V. Debs Cooperative House learning many essential interpersonal communication & management skills. 
 
-## Jackson Community College <span class = "sub_title_details">Jackson, MI
+## Jackson Community College <span class = "sub_title_details">*Jackson, MI*
 {: .section_sub_title}
 
 • Dual-Enrolled Computer Service Technology
@@ -20,7 +20,7 @@ I attended Eastern Michigan University as a Fine Art student studying Photograph
 
 After High school I matriculated at the local Community Collage further perusing my education in computer technology. During this time I became more exposed to local arts & music developing a deeper appreciation for the creative arts.
 
-## Jackson Area Career Center <span class = "sub_title_details">Jackson, MI
+## Jackson Area Career Center <span class = "sub_title_details">*Jackson, MI*
 {: .section_sub_title}
 
 • Dual-Enrolled Computer Service Technology
@@ -29,7 +29,7 @@ After High school I matriculated at the local Community Collage further perusing
 
 Further complications from my general disinterest in attending classes led to an opportunity to not only attend the local vocational school for Computer Service Technology but to also become dual enrolled at the local community collage gaining access to more advanced instruction in computer operation & service. While attending JACC I first encountered the SmallTalk & Ruby programing Languages.
 
-## Hanover-Horton High School <span class = "sub_title_details">Horton, MI
+## Hanover-Horton High School <span class = "sub_title_details">*Horton, MI*
 {: .section_sub_title}
 
 • *Zero Hour* class maintaining school servers & network infrastructure
@@ -38,7 +38,7 @@ Further complications from my general disinterest in attending classes led to an
 
 In High school I was active in Marching & Concert Bands as well as a reasonably successful period on the Varsity Cross Country Team. Noticing my aptitude for computers & general dis interest in class I was offered the opportunity to come in before school to maintain the school servers & network infrastructure in exchange for class credit. During this time I also designed & deployed the first website for the school receiving a commendation from the school board. Various backend and graphic components of this original site are still in use on the schools current site.
 
-## Hanover-Horton Elementary School <span class = "sub_title_details">Hanover, MI
+## Hanover-Horton Elementary School <span class = "sub_title_details">*Hanover, MI*
 {: .section_sub_title}
 
 • Reasonably successful *Odyssey of the Mind* competitor
