@@ -24,4 +24,4 @@ class Application < Sinatra::Base
 
 end
 
-binding.pry
+#binding.pry

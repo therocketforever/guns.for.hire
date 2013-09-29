@@ -4,8 +4,12 @@
 html {
   body{
     padding: 1 rem;
-    width: 90%;
+    width: 80%;
     margin: auto;
+
+    h2{
+      font-size: 1.5rem;
+    }
 
     p{
       font-size: 1 rem;
@@ -13,6 +17,15 @@ html {
     
     .section_title{
       text-decoration: underline;
+    }
+
+    .sub_title_details{
+      font-size: 1.5rem;
+      font-weight: lighter;
+    }
+
+    .who_am_i{
+      font-size: 4rem;
     }
 
   }

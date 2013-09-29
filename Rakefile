@@ -15,7 +15,7 @@ namespace :build_tasks do
       
 
       #this reads the file name without the extension & convert to symbol
-      key_name = File.basename(source_asset, '.*').to_sym
+      key_name = File.basename(source_asset, '.*').split("_")[1].to_sym
 
       #Hold on to the file for processing
       #file_by_line = []
