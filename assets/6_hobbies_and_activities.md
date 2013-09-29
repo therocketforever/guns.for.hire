@@ -1,4 +1,4 @@
-# <span class = "recent_projects">Hobbies & Activities
+# <span class = "hobies_and_activities">Hobbies & Activities
 {: .section_title}
 
 ## Cleveland Aquarium Society
