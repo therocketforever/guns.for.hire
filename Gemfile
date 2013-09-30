@@ -9,6 +9,10 @@ gem "slim"
 gem "kramdown"
 gem "sprockets"
 
+group :production do
+  gem 'newrelic_rpm'
+end
+
 group :development do
   gem "nokogiri"
   gem "pry"
