@@ -9,7 +9,7 @@ HTML5, CSS3, ECMAScript(JavaScript), Ember.js, Handlebars, Ember-Data, Node.js, 
 ## Back End
 {: .section_sub_title}
 
-Git, Shell, Ruby (1.8, 1.9, 2.0), Rack, Sinatra, Grape, Rails, Node.js, HAML, Slim, SASS, Foreman, Heroku, GitHub, PHP, YAML, JSON, OAuth2, Kerberos, SQLite, MySQL, Postgres, Redis, DataMapper, MongoDB, Haskell, Go, CoffeeScript, C, Objective C, SmallTalk
+Git, Shell, Ruby (1.8, 1.9, 2.0), Rack, Sinatra, Grape, Rails, Node.js, HAML, Slim, SASS, Foreman, Heroku, GitHub, PHP, YAML, JSON, OAuth2, Kerberos, SQLite, MySQL, Postgres, Redis, DataMapper, MongoDB, Haskell, Go, CoffeeScript, C, Objective C, SmallTalk, SNMP, IPMI, Bind
 
 ## Dev/Ops
 {: .section_sub_title}
@@ -19,5 +19,5 @@ VirtualBox, VMWare, ESXi, Docker, Vagrant, Boxen, Puppet, OSX Client (10.2, 10.3
 ## Tools & Technologies
 {: .section_sub_title}
 
-Vi/m, Emacs, Bash, Zsh, Fish, XCode, TextMate, Sublime Text, Espresso, Photoshop, Illustrator, InDesign, Acrobat, MS Office (Word, Excel, PowerPoint, Outlook), Apple iWork (Keynote, Numbers, Pages), Espresso, CSSEdit, Tower, Github for Mac, Kaleidoscope, Versions, Coda 1 & 2, Firefox, Safari, Internet Explorer, Pow
+Vi/m, Emacs, Bash, Zsh, Fish, XCode, TextMate, Sublime Text, Espresso, Photoshop, Illustrator, InDesign, Acrobat, MS Office (Word, Excel, PowerPoint, Outlook), Apple iWork (Keynote, Numbers, Pages), Espresso, CSSEdit, Tower, Github for Mac, Kaleidoscope, Versions, Coda 1 & 2, Firefox, Safari, Internet Explorer, Pow, Heimdal ,IPMItool, Apple Remote Desktop, Git, Tig, Subversion, Mathmtica, Nmap
 
