@@ -5,13 +5,13 @@
 {: .tagline}  
   
 +1 (734) 747 0412  
+{: .telephone}  
+  
 *therocketforever@me.com*  
+{: .email}  
   
-453 Skyline Dr.  
-Horton, MI 49246  
-  
-### On the internet  
-{: .section_sub_title}  
+453 Skyline Dr. Horton, MI 49246  
+{: .address}  
   
 *http://www.dongraziano.com*  
 *https://github.com/therocketforever*  

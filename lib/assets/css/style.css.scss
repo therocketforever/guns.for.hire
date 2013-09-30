@@ -38,7 +38,15 @@ html {
       font-size: $g3;
       font-family: "webneuebold";
     }
-
+    footer{
+      padding: $g2;
+      text-align: center;
+      .footer_element{
+        padding: 0 $g2 0 $g2;
+        font-size: $g1;
+        font-family: "webneuethin";
+      }
+    }
   }
 }
 

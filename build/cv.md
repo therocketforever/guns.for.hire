@@ -3,12 +3,10 @@
 *Agile full stack dev/ops implementing a more RESTfull world through beautiful code*  
   
 +1 (734) 747 0412  
+  
 *therocketforever@me.com*  
   
-453 Skyline Dr.  
-Horton, MI 49246  
-  
-### On the internet  
+453 Skyline Dr. Horton, MI 49246  
   
 *http://www.dongraziano.com*  
 *https://github.com/therocketforever*  
