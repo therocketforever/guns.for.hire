@@ -295,7 +295,7 @@ As a server for Café Felix responsibilities include tasks such as waiting table
 # <span class = "education">Education  
 {: .section_title}  
   
-## Eastern Michigan University <span class = "sub_title_details">Ypsilanti, MI  
+## Eastern Michigan University <span class = "sub_title_details">*Ypsilanti, MI*  
 {: .section_sub_title}  
   
   
@@ -305,7 +305,7 @@ As a server for Café Felix responsibilities include tasks such as waiting table
   
 I attended Eastern Michigan University as a Fine Art student studying Photography & Curation. During this time I organized & participated in various local shows, exhibitions, and events. While in university I was a resident of the Eugene V. Debs Cooperative House learning many essential interpersonal communication & management skills.  
   
-## Jackson Community College <span class = "sub_title_details">Jackson, MI  
+## Jackson Community College <span class = "sub_title_details">*Jackson, MI*  
 {: .section_sub_title}  
   
 • Dual-Enrolled Computer Service Technology  
@@ -314,7 +314,7 @@ I attended Eastern Michigan University as a Fine Art student studying Photograph
   
 After High school I matriculated at the local Community Collage further perusing my education in computer technology. During this time I became more exposed to local arts & music developing a deeper appreciation for the creative arts.  
   
-## Jackson Area Career Center <span class = "sub_title_details">Jackson, MI  
+## Jackson Area Career Center <span class = "sub_title_details">*Jackson, MI*  
 {: .section_sub_title}  
   
 • Dual-Enrolled Computer Service Technology  
@@ -323,7 +323,7 @@ After High school I matriculated at the local Community Collage further perusing
   
 Further complications from my general disinterest in attending classes led to an opportunity to not only attend the local vocational school for Computer Service Technology but to also become dual enrolled at the local community collage gaining access to more advanced instruction in computer operation & service. While attending JACC I first encountered the SmallTalk & Ruby programing Languages.  
   
-## Hanover-Horton High School <span class = "sub_title_details">Horton, MI  
+## Hanover-Horton High School <span class = "sub_title_details">*Horton, MI*  
 {: .section_sub_title}  
   
 • *Zero Hour* class maintaining school servers & network infrastructure  
@@ -332,7 +332,7 @@ Further complications from my general disinterest in attending classes led to an
   
 In High school I was active in Marching & Concert Bands as well as a reasonably successful period on the Varsity Cross Country Team. Noticing my aptitude for computers & general dis interest in class I was offered the opportunity to come in before school to maintain the school servers & network infrastructure in exchange for class credit. During this time I also designed & deployed the first website for the school receiving a commendation from the school board. Various backend and graphic components of this original site are still in use on the schools current site.  
   
-## Hanover-Horton Elementary School <span class = "sub_title_details">Hanover, MI  
+## Hanover-Horton Elementary School <span class = "sub_title_details">*Hanover, MI*  
 {: .section_sub_title}  
   
 • Reasonably successful *Odyssey of the Mind* competitor  
@@ -341,7 +341,7 @@ In High school I was active in Marching & Concert Bands as well as a reasonably 
   
 I attended Hanover-Horton Elementary School in Hanover Michigan. In 5th grade I was selected to compete on one of the schools original two *Odyssey of the mind* teams achieving regional victories three times & a semi-final victory once. At an early age my teachers noticed an aptitude for computers & in 6th grade I was allowed to participate in the Junior High level computer classes providing my initial exposer to HTML, The UNIX operating system & the Internet.  
   
-# <span class = "recent_projects">Hobbies & Activities  
+# <span class = "hobies_and_activities">Hobbies & Activities  
 {: .section_title}  
   
 ## Cleveland Aquarium Society  
@@ -475,4 +475,37 @@ Participate & sometimes organize an annual fall trip to northern Michigan for ca
 • Philmont New Mexico trip  
   
 As a member of the Boy Scouts of America I learned various Organizational & Leadership skills, Serving as both patrol & senior patrol leader multiple times. Organization of various camping trips as well as developing skills in wilderness survival, sailing, canoe & kayaking, fishing, photography, assisted & astral navigation, or entering, community service & general life skills.  
+  
+# <span class = "testimonials">Testimonials  
+{: .section_title}  
+  
+## Mark Poon <span class = "sub_title_details">*Ruby on Rails & iOS Developer, Ur-Channel*  
+{: .section_sub_title}  
+  
+"Don began teaching me Ruby nearly six years ago. His knowledge of application architecture & security have proven to be invaluable time and time again. His assistance & mentoring have helped me learn to write code that is testable & maintainable; Most importantly his ability to understand & explain advanced concepts in programming makes him a superb educator. He continues to be a constant source of wisdom & direction. I would recommend him for any position."  
+  
+## Xianhe Wei <span class = "sub_title_details">*Senior Engineer - Qualcomm Inc.*  
+{: .section_sub_title}  
+  
+"Don is very committed to his work. He would sacrifice his own time to ensure work is completed in the highest quality possible."  
+  
+## Erdem Onder <span class = "sub_title_details">*Bicycle Courier - Toronto, ON*  
+{: .section_sub_title}  
+  
+"Don is fast. No other way to say is. His ability to get from one end of town to the other, in traffic, under a load is pretty well known. He is also pretty great with a wrench, When I'm in a jam I know I can count on Don to get me back on the road & my waybills to their destination."  
+  
+## Leah Hollinsworth <span class = "sub_title_details">*Bicycle Courier Dispatcher - Toronto, ON*  
+{: .section_sub_title}  
+  
+"When I need no know without doubt that my packages will arrive on time without incident I know that I can count on Don."  
+  
+## Bao Nguyen <span class = "sub_title_details">*Real Restate Agent - Ann Arbor, MI*  
+{: .section_sub_title}  
+  
+"I am constantly impressed with Don's ability to absorb new knowledge and adapt to changing situations. When there is a problem to be solved he has a singular focus until a solution is found."  
+  
+## Steve Sabo <span class = "sub_title_details">*Painting Instructor & Studio Manager - Chicago, IL*  
+{: .section_sub_title}  
+  
+"He sees a map once and knows exactly how to arrive at our destination. He must have GPS built into his head. Some people are natural problem solvers. Don is one of them."  
   
