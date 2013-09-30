@@ -171,7 +171,7 @@ Ruby, Git, Rake, Kramdown, SASS, Nokogiri
 # Previous Employment  
 {: .section_title}  
   
-## Clarity Communications Advisors, Inc. <span class = "sub_title_details">*Southfield, MI  - July 2013 - August 2013*  
+## Clarity Communications Advisors, Inc. <span class = "sub_title_details">*Southfield, MI  - May 2013 - August 2013*  
 {: .section_sub_title}  
   
 ### Application Developer  
