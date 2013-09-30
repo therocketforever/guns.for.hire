@@ -9,7 +9,7 @@ HTML5, CSS3, ECMAScript(JavaScript), Ember.js, Handlebars, Ember-Data, Node.js, 
 ## Back End
 {: .section_sub_title}
 
-Git, Shell, Ruby (1.8, 1.9, 2.0), Rack, Sinatra, Grape, Rails, Node.js, HAML, Slim, SASS, Foreman, Heroku, GitHub, PHP, YAML, JSON, OAuth2, Kerberos, SQLite, MySQL, Postgres, Redis, DataMapper, MongoDB, Haskell, Go, CoffeeScript, C, Objective C, SmallTalk, SNMP, IPMI, Bind
+Git, Shell, Ruby (1.8, 1.9, 2.0), Rack, Sinatra, Grape, Rails, Node.js, HAML, Slim, SASS, Foreman, Heroku, GitHub, PHP, YAML, JSON, OAuth2, Kerberos, SQLite, MySQL, Postgres, Redis, DataMapper, MongoDB, Haskell, Go, CoffeeScript, C, Objective C, SmallTalk, SNMP, IPMI, Bind, Markdown, Kramdown, Sprockets
 
 ## Dev/Ops
 {: .section_sub_title}

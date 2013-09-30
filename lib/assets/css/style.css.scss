@@ -1,4 +1,5 @@
 @import "normalize";
+@import "grid";
 @import "shame";
 
 html {
@@ -30,3 +31,12 @@ html {
 
   }
 }
+
+//* Desktop *//
+@media screen and (min-device-width: 900px){}
+
+//* Tablet *//
+@media screen and (min-device-width:480px) and (max-device-width: 900px ){}
+
+//* Mobile *//
+@media screen and (max-device-width: 480px){}
