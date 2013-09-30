@@ -1,32 +1,42 @@
 @import "normalize";
 @import "grid";
+@import "font/webneue";
 @import "shame";
 
 html {
   body{
-    padding: 1 rem;
+    padding: $g0;
     width: 80%;
     margin: auto;
+    font-family: "webneueregular";
 
     h2{
-      font-size: 1.5rem;
+      font-size: $g1;
     }
 
     p{
-      font-size: 1 rem;
+      font-size: $g0;
     }
     
     .section_title{
+      font-size: $g2;
       text-decoration: underline;
     }
 
     .sub_title_details{
-      font-size: 1.5rem;
+      font-size: $g1;
       font-weight: lighter;
+      font-family: "webneuethin";
+    }
+
+    .sub_title_head{
+      font-size: $g1;
+      //font-weight: lighter;
     }
 
     .who_am_i{
-      font-size: 4rem;
+      font-size: $g3;
+      font-family: "webneuebold";
     }
 
   }
