@@ -1,0 +1,162 @@
+<!---- RunRun Waybill as QR Sample ----->
+<!---     © 2013 Don Graziano        --->
+<!---     therocketforever@me.com    --->
+<!---     +1 (734) 747-0412          --->
+<!-------------------------------------->
+
+<article class="waybill">
+
+<section class="qr">
+<% qr = RQRCode::QRCode.new( waybill.number ) %>
+  <table class="qrc">
+    <% qr.modules.each_index do |x| %>
+      <tr>
+      <% qr.modules.each_index do |y| %>
+        <% if qr.dark?(x,y) %>
+          <td class="black"/>
+        <% else %>
+          <td class="white"/>
+        <% end %>
+      <% end %>
+      </tr>
+    <% end %>
+  </table>
+</section>
+
+<% unless request.path_info == ['/waybill', waybill.number].join("/") %>
+
+  <section class="waybody">
+    <h3><%= waybill.number %></h3>
+    <p class="wayservice"><%= pretty_type( waybill.service ) %></p>
+    <% unless waybill.contracted.nil? %>
+      <% if waybill.contracted? %>
+        <p>On Contract</p>
+      <% end %>
+    <% end %>
+    <% unless @user.courier? %>
+      <p>Origin: <%= waybill.origin %></p>
+      <p>Destination: <%= waybill.destination %></p>
+      <% unless waybill.status == :delivered %>
+        <p class="charge"><%= waybill.chargeish %></p>
+      <% else %>
+        <p class="charge"><%= waybill.charge %></p>
+      <% end %>
+    
+    <% else %>
+      <% if waybill.status == :dispatched %>
+        <p>Dispatched to you <%= fuzzy_time( waybill.dispatched_at ) %>.</p>
+        <p><%= pickup_before( waybill.id ) %></p>
+        <p>Pickup From: <%= waybill.origin %></p>
+      <% elsif waybill.status == :transit %>
+        <p>Dispatched to you <%= fuzzy_time( waybill.dispatched_at ) %>.</p>
+        <p>Picked up <%= fuzzy_time( waybill.up_at ) %>.</p>
+        <p><%= deliver_by( waybill.id ) %></p>
+        <p>Deliver To: <%= waybill.destination %></p>
+      <% elsif waybill.status == :delivered %>
+        <p>Origin: <%= waybill.origin %></p>
+        <p>Destination: <%= waybill.destination %></p>
+      <% end %>
+    <% end %>
+    
+    
+    <% unless waybill.signature.nil? %>
+      <p>Signed for by: <%= waybill.signature %></p>
+    <% end %>
+  </section>
+  
+  <% if @user.client? %>
+    <section class="waycontrol">
+    <% if waybill.status == :pending %>
+      <form action="/waybill/<%= waybill.number %>"method="get">
+        <input type="submit" name="edit" value="Edit" />
+      </form>
+    <% else %>
+      <form action="/waybill/<%= waybill.number %>"method="get">
+        <input type="submit" name="details" value="Details" />
+      </form>
+    <% end %>
+    </section>
+  
+  <% elsif @user.courier? %>
+    courier
+    <% if waybill.status == :pending %>
+      Pending
+    <% elsif waybill.status == :dispatched %>
+      Dispatched
+      <form action="/pickup" method="post">
+        <input type="hidden" name="_method" value="put" />
+        <input type="hidden" name="id" value="<%= waybill.id %>" />
+        <input type="submit" value="Pick up!" />
+      </form>
+    <% elsif waybill.status == :transit %>
+      Transit
+      <form action="/deliver" method="post">
+        <input type="hidden" name="_method" value="put" />
+        <input type="hidden" name="id" value="<%= waybill.id %>" />
+        <input name="signature" placeholder="Signature" />
+        <input type="submit" value="Deliver!" />
+      </form>
+    <% elsif waybill.status == :delivered %>
+      Delivered
+    <% end %>
+    
+    <section class="waycontrol">
+    <form action="/waybill/<%= waybill.number %>"method="get">
+      <input type="submit" name="details" <% if @user.dispatcher? %>value="Edit"<% else %>value="Details"<% end %> />
+    </form>
+    </section>
+  
+  <% elsif @user.dispatcher? %>
+    
+    <section class="waycontrol">
+    <% if waybill.status == :pending %>
+      <form action="/dispatch" method="post">
+      <input type="hidden" name="_method" value="put" />
+      <select name="courier">
+        <% unless @courier.nil? %>             
+          <option value="<%= @user.id %>"><%= ["00", @user.id].join %> | <%= @user.name %> ( <%= @account.state.capitalize %> )</option>  
+        <% else %>
+          <% @couriers.each do |courier| %>
+            <option value="<%= courier.id %>"><%= ["00", courier.id].join %> | <%= courier.organization %> ( <%= courier.state.capitalize %> )</option>
+          <% end %>
+        <% end %>
+      </select>
+      <input type="hidden" name="id" value="<%= waybill.id %>" />
+      <input type="submit" name="dispatch" value="Dispatch!" />
+    </form><br />
+    <% elsif waybill.status == :dispatched %>
+      <p class="transitime">Dispatched to <%= User.first(:id => waybill.delivered_by).name %><br /><%= fuzzy_time( waybill.dispatched_at ) %>.</p>
+      <form action="/pickup" method="post">
+        <input type="hidden" name="_method" value="put" />
+        <input type="hidden" name="id" value="<%= waybill.id %>" />
+        <input type="submit" value="Pick up!" />
+      </form>
+    <% elsif waybill.status == :transit %>
+      <p>Picked up by <%= User.first(:id => waybill.delivered_by).name %><br /><%= fuzzy_time( waybill.up_at ) %>.</p>
+      <form action="/deliver" method="post">
+        <input type="hidden" name="_method" value="put" />
+        <input type="hidden" name="id" value="<%= waybill.id %>" />
+        <input name="signature" placeholder="Signature" /><br />
+        <input type="submit" value="Deliver!" />
+      </form>
+    <% elsif waybill.status == :delivered %>
+      <p>Delivered by <%= User.first(:id => waybill.delivered_by).name %> <%= fuzzy_time( waybill.delivered_at ) %>.</p>
+      <form action="/pay" method="post">
+        <input type="hidden" name="_method" value="put" />
+        <input type="hidden" name="id" value="<%= waybill.id %>" />
+        <input type="submit" name="pay" value="Apply Payment" />
+      </form>
+    <% end %>
+    
+    <form action="/waybill/<%= waybill.number %>"method="get">
+      <input type="submit" name="details" <% if @user.dispatcher? %>value="Edit"<% else %>value="Details"<% end %> />
+    </form>
+    </section>
+    
+  <% end %>
+
+</article>
+
+<% else %>
+  This would be Details View
+<% end %>

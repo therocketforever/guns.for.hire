@@ -10,6 +10,10 @@ class Application < Sinatra::Base
     slim :index
   end
 
+  get '/short' do
+    slim :short
+  end
+
   get '/dot' do
     slim :dot
   end
